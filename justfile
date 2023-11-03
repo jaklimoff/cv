@@ -4,7 +4,7 @@ install:
 
 # Check formatting
 dev:
-    cargo watch -w src -w data -w templates -x 'run' -s "open -g output/index.html"
+    cargo watch -w src -w data -w templates -x 'run' -s "open -g docs/index.html"
 
 # Check formatting
 format:

@@ -46,7 +46,7 @@ fn main() {
     //     .create(true)
     //     .open("output/index.html").unwrap();
 
-    match write_to_file(a.as_str(), "output/index.html") {
+    match write_to_file(a.as_str(), "docs/index.html") {
         Ok(()) => println!("Successfully wrote to the file."),
         Err(e) => eprintln!("Error writing to the file: {}", e),
     }
