@@ -3,7 +3,7 @@
     "firstName": "Jack",
     "lastName": "Klimov",
     "label": "Team Lead & Software Architect",
-    "image": "assets/images/avatar.jpg",
+    "image": "assets/images/avatar.png",
     "email": "jaklimoff+cv@gmail.com",
     "phone": "+351 960 147 611",
     "url": "jaklimoff.com",
@@ -114,12 +114,12 @@
       "location": "Remote",
       "position": "Fullstack Developer",
       "url": null,
-      "startDate": "2007-06-01",
-      "endDate": "2009-04-01",
-      "summary": "As a full-stack developer, I juggled both back-end and front-end realms, masquerading as a software wizard who could conjure up solutions from thin air.",
+      "startDate": "2009-04-01",
+      "endDate": "2012-04-01",
+      "summary": "Propelled by cosmic amounts of coffee, as a full-stack developer, I juggled both back-end and front-end realms. It felt overwhelmingly exciting to work and learn from other developers and dive deeper into tech.",
       "highlights": [
         "Worked as fullstack developer on dozens of projects",
-        "Got unique experience in communication with clients",
+        "Got first and valuable experience in communication with plethora of clients",
         "Developed backend using PHP and Python",
         "Developed frontend on JS and HTML/CSS"
       ]
